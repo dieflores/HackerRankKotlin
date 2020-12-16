@@ -11,4 +11,4 @@ object Day5HackerRank {
             println(n.toString() + " x " + i + " = " + n * i) // solo agregué el ciclo for
         }
     }
-}
+} //fin
